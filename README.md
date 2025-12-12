@@ -1,6 +1,6 @@
 # LLM Benchmark
 
-A repository for benchmarking Large Language Models (LLMs) using the [lm-eval](https://github.com/EleutherAI/lm-evaluation-harness) evaluation framework.
+A repository for benchmarking Large Language Models (LLMs) using the [lm-eval](https://github.com/EleutherAI/lm-evaluation-harness) evaluation framework
 
 ## Overview
 
